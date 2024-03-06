@@ -13,21 +13,16 @@ public class exercise15 /* CustoCarro */ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Leitura do custo de fábrica
         System.out.print("Digite o custo de fábrica do carro: ");
         double custoFabrica = scanner.nextDouble();
 
-        // Percentual do distribuidor
         double percentualDistribuidor = 28.0;
 
-        // Percentual de impostos
         double percentualImpostos = 45.0;
 
-        // Cálculo do custo final ao consumidor
         double custoFinal = custoFabrica + (custoFabrica * percentualDistribuidor / 100)
                 + (custoFabrica * percentualImpostos / 100);
 
-        // Exibição do custo final ao consumidor
         System.out.println("O custo final ao consumidor é: " + custoFinal);
 
         scanner.close();
