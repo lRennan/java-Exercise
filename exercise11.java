@@ -22,7 +22,7 @@ public class exercise11 {
         double area = (baseMaior + baseMenor) * altura / 2;
 
         System.out.println("A área do trapézio com base maior " + baseMaior +
-                ", base menor " + baseMenor + " e altura " + altura + " é: " + area);
+                           ", base menor " + baseMenor + " e altura " + altura + " é: " + area);
 
         scanner.close();
     }
