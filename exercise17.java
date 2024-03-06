@@ -14,14 +14,11 @@ public class exercise17 /*FahrenheitParaCelsius*/ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Leitura da temperatura em graus Fahrenheit
         System.out.print("Digite a temperatura em graus Fahrenheit: ");
         double temperaturaFahrenheit = scanner.nextDouble();
 
-        // Cálculo da temperatura em Celsius
         double temperaturaCelsius = (temperaturaFahrenheit - 32) * (5.0 / 9);
 
-        // Exibição da temperatura em Celsius
         System.out.println("A temperatura em Celsius é: " + temperaturaCelsius);
 
         scanner.close();
