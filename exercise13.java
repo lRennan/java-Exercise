@@ -21,12 +21,10 @@ public class  exercise13 /*PercentualVotos*/ {
         System.out.print("Digite o número de votos válidos: ");
         int votosValidos = scanner.nextInt();
 
-        // Cálculo dos percentuais
         double percentualBrancos = (double) votosBrancos / totalEleitores * 100;
         double percentualNulos = (double) votosNulos / totalEleitores * 100;
         double percentualValidos = (double) votosValidos / totalEleitores * 100;
 
-        // Exibição dos resultados
         System.out.println("Percentual de votos brancos: " + percentualBrancos + "%");
         System.out.println("Percentual de votos nulos: " + percentualNulos + "%");
         System.out.println("Percentual de votos válidos: " + percentualValidos + "%");
