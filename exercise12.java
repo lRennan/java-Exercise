@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class exercise12 {
+public class exercise12 /*circleArea*/{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
