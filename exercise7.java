@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class exercise7 {
+public class exercise7 /*RetanguloArea*/ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
