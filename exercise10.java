@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class exercise10 {
+public class exercise10 /*LosangoArea*/{
     public static void main(String[] args) {
         
         Scanner scanner = new Scanner(System.in);
