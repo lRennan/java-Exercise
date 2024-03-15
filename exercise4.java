@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class exercise4 {
+public class exercise4 /*Subtracao*/ {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
