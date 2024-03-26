@@ -23,7 +23,6 @@ public class exercise10 /*LosangoArea*/{
         System.out.println("A área do losango com diagonal maior " + diagonalMaior +
                 " e diagonal menor " + diagonalMenor + " é: " + area);
 
-        // Fechar o Scanner
         scanner.close();
     }
 }
