@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class exercise11 /*TrapezioArea*/ {
+public class TrapezioArea {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
