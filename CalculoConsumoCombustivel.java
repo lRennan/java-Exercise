@@ -12,7 +12,7 @@ utilizando um automóvel que faz 12 Km por litro. Para obter o cálculo, o usuá
 
 import java.util.Scanner;
 
-public class exercise19 /* CalculoConsumoCombustivel */ {
+public class CalculoConsumoCombustivel{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
