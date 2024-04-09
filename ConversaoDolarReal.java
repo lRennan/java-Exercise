@@ -9,17 +9,14 @@ public class ConversaoDolarReal{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Solicita ao usuário a cotação do dólar e a quantidade de dólares disponíveis
         System.out.println("Digite a cotação atual do dólar:");
         double cotacaoDolar = scanner.nextDouble();
         
         System.out.println("Digite a quantidade de dólares disponíveis:");
         double quantidadeDolares = scanner.nextDouble();
         
-        // Calcula o valor em reais convertido a partir do valor em dólares e da cotação do dólar
         double valorReal = quantidadeDolares * cotacaoDolar;
         
-        // Exibe o valor convertido em reais
         System.out.println("O valor em reais é: R$ " + valorReal);
         
         scanner.close();
