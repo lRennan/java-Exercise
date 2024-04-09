@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class exercise20 /*PrestacaoAtraso*/ {
+public class PrestacaoAtraso {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
