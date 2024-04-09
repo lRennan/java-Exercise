@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class exercise39 {
+public class jornadaTrabalho {
 	public static void main(String[]args) {
 		Scanner scanner = new Scanner(System.in);
 		
