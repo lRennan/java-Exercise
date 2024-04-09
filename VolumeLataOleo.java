@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class exercise18 /*VolumeLataOleo*/ {
+public class VolumeLataOleo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
