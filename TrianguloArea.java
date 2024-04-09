@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class exercise8 /*TrianguloArea*/{
+public class  TrianguloArea{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
