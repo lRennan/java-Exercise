@@ -5,7 +5,7 @@
  */
 import java.util.Scanner;
 
-public class exercise25/*ConversaoDolarReal */{
+public class ConversaoDolarReal{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
