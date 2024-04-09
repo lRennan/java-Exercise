@@ -9,7 +9,7 @@ calculates and writes the total cost of the purchase .
 
 import java.util.Scanner;
 
-public class exercise33 {
+public class PrecoMacas {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         
