@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class exercise15 /* CustoCarro */ {
+public class exercise15 CustoCarro {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
