@@ -5,7 +5,7 @@
 */
 import java.util.Scanner;
 
-public class  exercise13 /*PercentualVotos*/ {
+public class  PercentualVotos {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
