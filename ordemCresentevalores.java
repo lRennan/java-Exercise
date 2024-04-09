@@ -3,7 +3,7 @@
  */
 
 import java.util.Scanner;
-public class exercise37 {
+public class ordemCresentevalores {
 	public static void main(String[]args) {
 		Scanner scanner = new Scanner(System.in);
 		
