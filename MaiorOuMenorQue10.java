@@ -5,7 +5,7 @@ otherwise write NOT GREATER THAN 10!
 */
 import java.util.Scanner;
 
-public class exercise31 {
+public class MaiorOuMenorQue10 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         
