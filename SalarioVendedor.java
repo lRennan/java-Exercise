@@ -4,7 +4,7 @@
 
 import java.util.Scanner;
 
-public class exercise40 {
+public class SalarioVendedor {
 	public static void main(String[]args) {
 	Scanner scanner = new Scanner(System.in);
 	
