@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class exercise32 {
+public class LerValorPositivoNegativo {
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
         
