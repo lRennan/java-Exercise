@@ -4,7 +4,7 @@
  */
 
 import java.util.Scanner;
-public class exercise35 {
+public class Voto {
 	public static void main(String[]args) {
 		Scanner scanner = new Scanner(System.in);
 	
