@@ -14,7 +14,7 @@ A fórmula de conversão é F = (9*C + 160)/5, sendo F a temperatura em Fahrenhe
 
 import java.util.Scanner;
 
-public class exercise16 /*CelsiusPanraFahrenheit */ {
+public class CelsiusPanraFahrenheit {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
