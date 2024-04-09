@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class exercise22/*Distributiva*/ {
+public class Distributiva {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
