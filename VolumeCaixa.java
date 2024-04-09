@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class exercise23/*VolumeCaixa*/ {
+public class VolumeCaixa {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
