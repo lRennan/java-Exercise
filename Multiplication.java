@@ -9,7 +9,7 @@
 
 import java.util.Scanner;
 
-public class exercise5 /*Multiplication*/ {
+public class  Multiplication {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
