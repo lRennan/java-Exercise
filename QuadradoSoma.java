@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class exercise27/*QuadradoSoma*/ {
+public class QuadradoSoma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
