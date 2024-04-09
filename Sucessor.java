@@ -6,7 +6,7 @@
 import  java.util.Scanner;
 
 
-public class exercise1 /*Sucessor*/ {
+public class Sucessor {
         public static void main(String[] args) {
 
             try {
