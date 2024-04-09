@@ -8,7 +8,7 @@ Calculate and write the value of the new salary.
 
 import java.util.Scanner;
 
-public class exercise14/*ReajusteSalarial*/ {
+public class ReajusteSalarial {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
