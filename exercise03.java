@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class exercise3 /*Soma*/ {
+public class Soma {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
