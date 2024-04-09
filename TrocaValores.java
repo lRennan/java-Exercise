@@ -11,7 +11,7 @@ variable B now has the value of variable A. Present the values exchanged.
 
 import java.util.Scanner;
 
-public class exercise21/*TrocaValores*/ {
+public class TrocaValores {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
