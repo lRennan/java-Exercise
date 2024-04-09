@@ -3,7 +3,7 @@
 */
 import java.util.Scanner;
 
-public class exercise6 /*Divisao*/{
+public class  Divisao{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
