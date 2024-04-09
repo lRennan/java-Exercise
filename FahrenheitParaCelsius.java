@@ -10,7 +10,7 @@
 
 import java.util.Scanner;
 
-public class exercise17 /*FahrenheitParaCelsius*/ {
+public class FahrenheitParaCelsius{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
