@@ -2,7 +2,7 @@
 11) Make an algorithm to read: customer account number, balance, debit and credit. Afterwards, calculate and write the current balance (current balance = balance - debit + credit). Also test if current balance is greater than or equal to zero write the message 'Positive Balance', otherwise write the message 'Negative Balance'.
  */
 import java.util.Scanner;
-public class exercise41 {
+public class contaCliente {
 	public static void main(String[]args) {
 		Scanner scanner = new Scanner(System.in);
 		
