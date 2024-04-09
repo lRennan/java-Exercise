@@ -11,7 +11,7 @@
 
 import java.util.Scanner;
 
-public class exercise29/*ReajusteSalario*/ {
+public class ReajusteSalario {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
