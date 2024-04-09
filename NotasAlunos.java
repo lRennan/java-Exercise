@@ -8,7 +8,7 @@ Calcular a média aritmética simples e escrever uma mensagem que diga se o alun
 
 import java.util.Scanner;
 
-public class exercise34 {
+public class NotasAlunos {
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
         
